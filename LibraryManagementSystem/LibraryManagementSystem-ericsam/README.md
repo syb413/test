@@ -1,2 +1,0 @@
-# LibraryManagementSystem
-Coursework of OOP
